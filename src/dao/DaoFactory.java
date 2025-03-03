@@ -1,6 +1,6 @@
 package model.dao;
 
-import model.impl.SellerDaoJDBC;
+import model.dao.impl.SellerDaoJDBC;
 
 public class DaoFactory {
 	
